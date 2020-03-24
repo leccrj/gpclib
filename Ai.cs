@@ -12,7 +12,7 @@ namespace gpclib
             //Retorna o número formatado do Auto de Infração.
 
             //xxxxx.xxxxx.xxxx.xxxxxx
-            //12345.67890.1234.567890
+
 
             decimal numeroValido = 0;
 
